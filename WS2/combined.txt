@@ -1,5 +1,0 @@
-I wrote this!
-Hello, this is a sample text file.
-This file is being read by a Node.js program.
-here is more text for the exercise
-I wrote this!
